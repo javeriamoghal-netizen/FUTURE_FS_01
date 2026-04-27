@@ -1,2 +1,27 @@
-# FUTURE_FS_01
-Personal portfolio website showcasing my projects, skills, and resume.
+# 💼 Portfolio Website
+
+This is my personal portfolio website where I showcase my projects, skills, and resume.
+
+## 🚀 Features
+- Responsive design
+- Project showcase section
+- Resume download option
+- Clean UI
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 🔗 Live Demo
+(Add your deployed link here if available)
+
+## 📂 Projects Included
+- Portfolio Website
+- Mini CRM System
+
+## 📄 Resume
+Download my resume from the website.
+
+## 📌 Author
+Your Name
