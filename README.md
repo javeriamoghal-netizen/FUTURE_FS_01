@@ -14,7 +14,7 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 - JavaScript
 
 ## 🔗 Live Demo
-(Add your deployed link here if available)
+https://javeriamoghal-netizen.github.io/FUTURE_FS_01/
 
 ## 📂 Projects Included
 - Portfolio Website
@@ -24,4 +24,4 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 Download my resume from the website.
 
 ## 📌 Author
-Your Name
+JAVERIA MOGHAL
